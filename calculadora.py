@@ -5,6 +5,7 @@ resultado = 0
 
 while True:
     numero1 = int(input('Digite um numero: '))
+    print('Essas sao as operações: +, -, x, /.')
     oper = input('Digite a operacao: ')
     numero2 = int(input('Digite o outro numero: '))
 
